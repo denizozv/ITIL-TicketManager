@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "U8zTnMdYM9z9T5VKH4TwT1Z6f0fBJ5TPsJMqlfZ31Kw=",
+  "Source": "TicketManager.WebAPI",
+  "BasePath": "_content/TicketManager.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

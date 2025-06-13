@@ -1,0 +1,15 @@
+C:\Users\deniz\source\ITIL-TicketManager\TicketManager.Application\bin\Debug\net8.0\TicketManager.Application.deps.json
+C:\Users\deniz\source\ITIL-TicketManager\TicketManager.Application\bin\Debug\net8.0\TicketManager.Application.dll
+C:\Users\deniz\source\ITIL-TicketManager\TicketManager.Application\bin\Debug\net8.0\TicketManager.Application.pdb
+C:\Users\deniz\source\ITIL-TicketManager\TicketManager.Application\bin\Debug\net8.0\TicketManager.Domain.dll
+C:\Users\deniz\source\ITIL-TicketManager\TicketManager.Application\bin\Debug\net8.0\TicketManager.Domain.pdb
+C:\Users\deniz\source\ITIL-TicketManager\TicketManager.Application\obj\Debug\net8.0\TicketManager.Application.csproj.AssemblyReference.cache
+C:\Users\deniz\source\ITIL-TicketManager\TicketManager.Application\obj\Debug\net8.0\TicketManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deniz\source\ITIL-TicketManager\TicketManager.Application\obj\Debug\net8.0\TicketManager.Application.AssemblyInfoInputs.cache
+C:\Users\deniz\source\ITIL-TicketManager\TicketManager.Application\obj\Debug\net8.0\TicketManager.Application.AssemblyInfo.cs
+C:\Users\deniz\source\ITIL-TicketManager\TicketManager.Application\obj\Debug\net8.0\TicketManager.Application.csproj.CoreCompileInputs.cache
+C:\Users\deniz\source\ITIL-TicketManager\TicketManager.Application\obj\Debug\net8.0\TicketMa.9E1167EF.Up2Date
+C:\Users\deniz\source\ITIL-TicketManager\TicketManager.Application\obj\Debug\net8.0\TicketManager.Application.dll
+C:\Users\deniz\source\ITIL-TicketManager\TicketManager.Application\obj\Debug\net8.0\refint\TicketManager.Application.dll
+C:\Users\deniz\source\ITIL-TicketManager\TicketManager.Application\obj\Debug\net8.0\TicketManager.Application.pdb
+C:\Users\deniz\source\ITIL-TicketManager\TicketManager.Application\obj\Debug\net8.0\ref\TicketManager.Application.dll

@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TicketManager.Infrastructure/1.0.0": {
+        "dependencies": {
+          "TicketManager.Application": "1.0.0",
+          "TicketManager.Domain": "1.0.0"
+        },
+        "runtime": {
+          "TicketManager.Infrastructure.dll": {}
+        }
+      },
+      "TicketManager.Application/1.0.0": {
+        "dependencies": {
+          "TicketManager.Domain": "1.0.0"
+        },
+        "runtime": {
+          "TicketManager.Application.dll": {}
+        }
+      },
+      "TicketManager.Domain/1.0.0": {
+        "runtime": {
+          "TicketManager.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TicketManager.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TicketManager.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TicketManager.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
